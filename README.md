@@ -16,7 +16,7 @@ Example use case:
 2. Hostname changed to sho.rt (toolong.hostname.com still in DNS)
 3. Install and activate the allow-aliases plugin
 4. The following should now work:
-    http://sho.rt/yourls
-    http://toolong.hostname.com/yourls
-    http://<IP address>/yourls
-    http://<any other alias>/yourls
+    * http://sho.rt/yourls
+    * http://toolong.hostname.com/yourls
+    * http://<IP address>/yourls
+    * http://<any other alias>/yourls
