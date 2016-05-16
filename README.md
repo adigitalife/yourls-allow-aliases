@@ -6,13 +6,6 @@ This plugin is useful when you change the hostname of your server but you still 
 
 It also allows you to use YOURLS with your server's IP address.
 
-####Instructions:
-
-1. Copy the 'allow-aliases' folder to user/plugins/.
-2. Activate the plugin in the YOURLS admin interface.
-
-That's it.
-
 ####Example use case:
 
 1. Old hostname was toolong.hostname.com
@@ -23,3 +16,11 @@ That's it.
     * `http://toolong.hostname.com/yourls`
     * `http://<IP address>/yourls`
     * `http://<any other alias>/yourls`
+
+####Instructions:
+
+1. Copy the 'allow-aliases' folder to user/plugins/.
+2. Activate the plugin in the YOURLS admin interface.
+
+That's it.
+
